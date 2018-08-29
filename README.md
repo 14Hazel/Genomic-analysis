@@ -6,7 +6,7 @@
 
 
 # Assembly
-# Software : SPAdes 3.12.0(MacOs, linux)
+#Software : SPAdes 3.12.0(MacOs, linux)
 #Step 1 : download from http://cab.spbu.ru/files/release3.12.0/manual.html#sec2.2
   curl http://cab.spbu.ru/files/release3.12.0/SPAdes-3.12.0-Darwin.tar.gz -o SPAdes-3.12.0-Darwin.tar.gz
   tar -zxf SPAdes-3.12.0-Darwin.tar.gz
